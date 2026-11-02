@@ -1,0 +1,39 @@
+* {
+  box-sizing: border-box;
+}
+
+.QR-BODY {
+  width: 1440px;
+  background-color: hsl(212, 45%, 89%);
+  margin: 0;
+  display: flex;
+  font-family: sans-serif, arial;
+  margin-top: 150px;
+  margin-bottom: 100px;
+  align-items: center;
+  justify-content: center;
+}
+.QR-HEADER {
+  background-color: white;
+  width: 320px;
+  padding: 16px 16px 32px;
+  border-radius: 25px;
+  margin: 0 auto;
+  text-align: center;
+}
+.QR-PIC {
+  width: 100%;
+  border-radius: 25px;
+  display: block;
+}
+
+.QR-HEADING {
+  color: hsl(218, 44%, 22%);
+  font-size: 1.5rem;
+  margin-top: 25px;
+}
+.QR-PARAGRAPH {
+  color: hsl(216, 15%, 48%);
+  font-size: 1.2rem;
+  margin-top: 25px;
+}
