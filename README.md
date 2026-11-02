@@ -1,18 +1,11 @@
-# QR Code Component
+A simple project featuring a card that contains a QR code and text, directing visitors to the Frontend Mentor website.
 
-مشروع بسيط لعرض بطاقة تحتوي على رمز QR ونص يوجّه الزائر إلى موقع Frontend Mentor.
-
-## التقنيات المستخدمة
-
-- **HTML5** لبناء محتوى الصفحة.
-- **CSS3** لتنسيق البطاقة والألوان والخطوط والتخطيط.
-
-## الأدوات
-
-- **Visual Studio Code** لكتابة وتحرير الملفات.
-- **Git** لإدارة الإصدارات.
-- **GitHub** لاستضافة المشروع.
-
-## طريقة العمل
-
-بُنيت الصفحة باستخدام HTML وCSS فقط. لا يستخدم المشروع JavaScript أو أي مكتبات أو أطر عمل أو أدوات بناء. توجد الصور المستخدمة وملفات التصميم المرجعية داخل مجلدي `images` و`design`.
+Technologies Used
+HTML5 for structuring the page content.
+CSS3 for styling the card, colors, fonts, and layout.
+Tools
+Visual Studio Code for writing and editing files.
+Git for version control.
+GitHub for hosting the project.
+Methodology
+The page was built using only HTML and CSS. The project does not utilize JavaScript, nor does it incorporate any libraries, frameworks, or build tools. The images used and the reference design files are located within the `images` and `design` folders, respectively.`design`.
